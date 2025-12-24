@@ -45,4 +45,8 @@ create_file_with_content .flake8 "[flake8]\nmax-line-length = 88\n"
 
 # 5. Final memo
 cat <<EOM
-\n[MEMO]\n\nRepository structure created.\nAsk the agent to customize files based on project needs.\nEOM
+[MEMO]
+
+Repository structure created.
+Ask the agent to customize files based on project needs.
+EOM
